@@ -1,0 +1,17 @@
+apiVersion: kustom
+
+cat > infrastructure/kubernetes/base/kustomization.yaml << 'EOF'
+apiVersion: kustom
+
+
+
+cat
+
+
+
+
+
+
+njx
+
+
